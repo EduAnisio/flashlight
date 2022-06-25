@@ -10,6 +10,7 @@ Meu Primeiro App!!!!!
 ## Conteúdo aprendido:
 
 - Libs react-native-shake e react-native-torch
+- Icons: https://drive.google.com/drive/folders/1Kuh5tysH7-UFuSLHX0IQIIh2xcghHUIX
 - StyleSheet
 - Hook useState
 - Hook useEffect
